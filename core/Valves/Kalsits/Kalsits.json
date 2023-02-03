@@ -1,0 +1,36 @@
+{
+  "Animations":
+    {
+      "path": "./Valves/Kalsits/Animate",
+      "relax": "relax",
+      "interact": "interact",
+      "sit": "sit",
+      "sleep": "sleep",
+      "move": "move",
+      "special": null
+    },
+  "Audio":
+    {
+      "path": "./Valves/Kalsits/Audio",
+      "touch": "touch",
+      "sleep": "sleep",
+      "rain": "rain",
+      "hot": "hot",
+      "cold": "cold"
+    },
+  "stray":
+  [
+    "cpu","memo","fileclean"
+  ],
+  "show": "插件名称：[明日方舟]Kalsits\n版本：A0.0.1\n作者:QingYu\n简介：由AKDW作者制作的插件，包含了多种离谱功能。",
+  "settings":
+    {
+      "window_size": [850,194],
+      "sleeptime": 230000,
+      "weather_time": 230100,
+      "low_temperture_warning": 230200,
+      "hot_warning": 140000,
+      "interact_stop": 3.6,
+      "sit_time": 60
+    }
+}

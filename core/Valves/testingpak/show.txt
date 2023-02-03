@@ -1,0 +1,4 @@
+插件名称：testingpak
+版本：T0.0.1
+作者：QingYu
+简介: testing, testing.

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+<<<<<<< HEAD
+    <file url="file://$PROJECT_DIR$/memorandum/memo.txt" charset="UTF-8" />
+=======
+<<<<<<< HEAD
+    <file url="file://$PROJECT_DIR$/memorandum/memo.txt" charset="UTF-8" />
+=======
+    <file url="file://$PROJECT_DIR$/test.py" charset="GBK" />
+>>>>>>> 5ea4c63 (修改结构，新增功能)
+>>>>>>> f7f397a (update new functions)
+  </component>
+</project>

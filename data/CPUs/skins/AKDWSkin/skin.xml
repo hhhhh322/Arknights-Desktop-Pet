@@ -1,0 +1,34 @@
+<root>
+	<skin>
+		<text_color>16768959,10022341,16777215,16777215,16777215,16770992,16770992,16770992,16770992</text_color>
+		<specify_each_item_color>1</specify_each_item_color>
+		<skin_author>QingYu</skin_author>
+		<font name="Microsoft YaHei" size="9" style="0"/>
+		<display_text>
+			<up>上传: </up>
+			<down>下载: </down>
+			<cpu>CPU: </cpu>
+			<memory>内存: </memory>
+			<gpu>显卡: </gpu>
+			<cpu_temperature>CPU温度: </cpu_temperature>
+			<gpu_temperature>显卡温度: </gpu_temperature>
+		</display_text>
+	</skin>
+	<layout text_height="20" no_label="0">
+		<layout_l width="250" height="100">
+			<cpu x="30" y="30" width="106" align="0" show="1"/>
+			<memory x="158" y="30" width="106" align="0" show="1"/>
+			<up x="22" y="45" width="106" align="0" show="1"/>
+			<down x="150" y="45" width="106" align="0" show="1"/>
+		</layout_l>
+		<layout_s width="250" height="45">
+			<cpu x="61" y="12" width="106" align="0" show="1"/>
+			<memory x="145" y="12" width="106" align="0" show="1"/>
+		</layout_s>
+
+	</layout>
+	<preview width="250" height="170">
+		<l x="0" y="0"/>
+		<s x="0" y="112"/>
+	</preview>
+</root>
